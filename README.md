@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/biplov1221287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biplov1221287" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://np.linkedin.com/in/bip-lov-b7140928a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/bip-lov-b7140928a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bip-lov-b7140928a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/bip-lov-b7140928a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/biplov11?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/biplov11?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/biplov___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biplov___" height="30" width="40" /></a>
 </p>
