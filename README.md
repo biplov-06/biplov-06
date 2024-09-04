@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **biplovdhakal@gmail.com**
 
-- ⚡ Fun fact **JavaScript: Where you can use a 'function' to create a 'function' that's just a 'function' of a function**
+- ⚡ Fun fact:  **JavaScript: Where you can use a 'function' to create a 'function' that's just a 'function' of a function**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
