@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at (https://biplov.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://biplov-06.github.io/biplov_portfolio/)
 
 - 📫 How to reach me **biplovdhakal@gmail.com**
 
