@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplov-06&label=Profile%20views&color=0e75b6&style=flat" alt="biplov-06" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/bip-lov-b7140928a" target="blank">Follow Me</a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bip-lov-b7140928a" target="blank">LinkedIn/biplov</a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
