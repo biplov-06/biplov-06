@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplov-06&label=Profile%20views&color=0e75b6&style=flat" alt="biplov-06" /> </p>
 
-<p align="left"> <a href="https://twitter.com/biplov1221287" target="blank"><img src="https://img.shields.io/twitter/follow/biplov1221287?logo=twitter&style=for-the-badge" alt="biplov1221287" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bip-lov-b7140928a" target="blank"><img src="[https://img.shields.io/twitter/follow/biplov1221287?logo=twitter&style=for-the-badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)" alt="bip-lov-b7140928a" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
