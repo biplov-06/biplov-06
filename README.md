@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Biplov</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A student for new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplov-06&label=Profile%20views&color=0e75b6&style=flat" alt="biplov-06" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/bip-lov-b7140928a" target="blank">LinkedIn/biplov</a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Development**
 
 - 👨‍💻 All of my projects are available at (https://biplov-06.github.io/biplov_portfolio/)
 
